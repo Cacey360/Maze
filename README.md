@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" alt="Anya_v2_Visits_Counter" /></p>
+<p align="center"><img src="https://github.com/Sachoni/Mark_v2-MD/blob/42bb1f5a60a305cfa6e71106388c5a697a42dcaf/lib/Assets/Screenshot_20240919_190511_CapCut.jpg" alt="Anya_v2_Visits_Counter" /></p>
 
 ##
 ## `How To Deploy?`
