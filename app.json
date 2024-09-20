@@ -1,8 +1,8 @@
 {
-    "name": "Nzi-BotVer.2",
+    "name": "Nzi-Bot.2",
     "description": "Nzi-Bot-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
     "repository": "https://github.COM/PikaBotz/Anya_v2-MD",
-    "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg",
+    "logo": "https://github.com/Sachoni/Mark_v2-MD/blob/296ade34f1fa538209c543c7a2ee254617401e33/lib/Assets/Screenshot_20240919_190110_CapCut.jpg",
     "keywords": ["Automation", "Innovation", "Versatility", "Efficiency", "Messaging", "Chatbot", "Integration", "Customization", "Ease of Use", "Personalization"],
     "success_url": "/",
     "stack": "container",
